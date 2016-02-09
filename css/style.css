@@ -1,23 +1,14 @@
 body {
-font-family:
-font-weight:
-font-size:
-color:
-line-height:
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 16px;
+    font-size: color: 000;
+    line-height:
 }
 
 h1 {
-font-family:
-font-weight:
-font-size:
-color:
-line-height:
+    font-size: 40px;
 }
 
 h2 {
-font-family:
-font-weight:
-font-size:
-color:
-line-height:
+    font-size: 36px
 }
